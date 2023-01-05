@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Lobster-Regular";
+    src: url("fonts/Lobster-Regular.ttf");
+    font-weight: 700;
+}
+
+.page {
+    margin: auto;
+    background-color: lightgreen;
+}
+
+.page_sec {
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.new_year {
+    display: flex;
+    flex-direction: row;
+}
+
+.text {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    font-family: "Lobster-Regular";
+    font-size: 42px;
+    color: darkblue;
+}
+
+.text_chr {
+    margin-top: 60px;
+    text-align: center;
+    width: 60%;
+}
+
+
+.picture {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.christmas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
